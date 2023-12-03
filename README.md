@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhamad Syafe'ie
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Android Development and Data science.
 - 🌱 I’m currently learning new things to improve my skills
 - 📫 You can reach me Here
 
